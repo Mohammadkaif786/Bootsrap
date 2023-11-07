@@ -1,0 +1,116 @@
+.navbar {
+    background-color: black ! important;  
+  }
+  
+  .navbar-nav li {
+    padding: 0 05px;
+  }
+  
+  .navbar-nav li a {
+    color: gray !important;
+    font-weight: 500;
+    font-size: 14px;
+  }
+  .moblogo{
+    display: none;
+  }
+  .weblogo{
+    width: 35px;
+  }
+  .a{
+    text-transform: uppercase;
+    color: white;
+    line-height: 20px;
+    text-align: left;
+}
+.b{
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 1p;
+    text-align:left;
+    color: white;
+    font-size: 10PX;
+}
+.c{
+    text-align: left;
+    color: white;
+}
+.d{
+    font-family: cursive;
+}
+.e{
+    line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 1p;
+    text-align:left;
+    color: white;
+    font-size: 10PX;
+}
+.btn{
+    color:black;
+    background-color: white;
+    border-radius: 50px;
+    text-align: left;
+    font-size: 10px;
+}
+.f{
+    text-align: center;
+    color:white;
+    font-size: 40px;
+}
+.g{
+    width: 100%;
+}
+.h{
+  color: #fff;
+  font-family: Bebas Neue,sans-serif;
+  margin-top: 0;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.banner{
+  background: url(/Image/pexels-felix-mittermeier-1146134.jpg);
+  color: white;
+  width: 100%;
+}
+.i{
+color: #fff;
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 400;
+}
+.img1234{
+  height: 250px;
+  width: 250px;}
+
+  /* about css start */
+  .c2{
+    text-align: left;
+    color: white;
+  }
+.e2{
+  line-height: 25px;
+    letter-spacing: 1px;
+    word-spacing: 1p;
+    text-align:justify;
+    color: white;
+    font-size: 10PX;
+}
+
+  /* about css end */
+
+  @media(max-width:768px){
+    .img123{
+    width: 100%;
+margin-top: 22px;}
+.moblogo{
+  display: none}
+.weblogo{
+    display: none;
+  }
+  .navbar{
+    background: #fcb21b!important;
+  }
+  .mobimg{
+  margin-top:80px;}    
+}

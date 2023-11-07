@@ -1,0 +1,13 @@
+.w-50{
+    margin: auto;
+    border-radius: 50px;
+}
+.card-body p{
+    color: red;
+ }
+ .card  {
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+ }
+.image{
+    box-shadow: 0 0 10px;
+}
